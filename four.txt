@@ -1,2 +1,6 @@
 Four
+<<<<<<< HEAD
 hello
+=======
+4
+>>>>>>> main
